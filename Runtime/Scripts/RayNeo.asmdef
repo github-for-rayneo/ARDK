@@ -1,0 +1,20 @@
+{
+    "name": "RayNeo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:e40ba710768534012815d3193fa296cb",
+        "GUID:8eb90f049905577489cd53fdcbc316e5",
+        "GUID:ba171b3dd2a51234ab864770f99741a5",
+        "GUID:b372a384e5cfd584d8a11a1b3eeac0f6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

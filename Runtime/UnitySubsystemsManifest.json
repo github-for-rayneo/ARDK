@@ -1,0 +1,15 @@
+{
+  "name": "FFalconXR",
+  "version": "0.1.0",
+  "libraryName": "FFalconXRUnity",
+  "displays": [
+    {
+      "id": "FXRDisplay"
+    }
+  ],
+  "inputs": [
+    {
+      "id": "FXRInput"
+    }
+  ]
+}
